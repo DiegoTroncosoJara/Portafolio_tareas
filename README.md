@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Portafolio de tareas en React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Crear tareas nuevas, tachar y eliminar tareas
 
 ## Available Scripts
 
